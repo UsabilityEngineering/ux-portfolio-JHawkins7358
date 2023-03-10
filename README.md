@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Adjusting the A/C in 2023](j01/)
