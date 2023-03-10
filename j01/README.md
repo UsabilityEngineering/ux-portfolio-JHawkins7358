@@ -1,4 +1,4 @@
-# Adjusting the A/C in 2022
+# Adjusting the A/C in 2023
 
 My partner’s car is a 2022 Subaru Outback. As one would expect from a vehicle, the ability to control the climate inside is vital. For a good amount of time, I have been used to a more analog style of temperature control in a car. The image below is what I have in my own vehicle (a 2015 Ford Fiesta) and it seems to be pretty simple.
 
