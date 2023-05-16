@@ -9,3 +9,4 @@ Hello! My name is Jonathan Hawkins and I am a Computer Science major. I'm hoping
 ## UX Journal
 
 [Adjusting the A/C in 2023](j01/)
+[Adjusting the A/C in 2023 [Edited]](j02/)
