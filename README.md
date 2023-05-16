@@ -4,7 +4,7 @@ Hello! My name is Jonathan Hawkins and I am a Computer Science major. I'm hoping
 
 ## UX Team Project
 
-[Whats For Dinner]
+[Whats For Dinner](https://usabilityengineering.github.io/What4Dinner/)
 
 ## UX Journal
 
